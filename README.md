@@ -1,6 +1,6 @@
 # MedLLM-unsloth
 
-This repository contains language models trained using Unsloth.
+This repository contains biomedical language models trained using Unsloth.
 
 # As of now we have the following datasets and models:
 ## Datasets
