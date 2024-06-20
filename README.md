@@ -8,3 +8,8 @@ This repository contains language models trained using Unsloth.
 
 ## Models
 
+- [Phi-3-mini]()
+- [llama-3-8b]()
+- [llama-2-7b]()
+- [gemma-2b]()
+- [gemma-7b]()
