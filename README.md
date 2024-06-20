@@ -5,6 +5,7 @@ This repository contains biomedical language models trained using Unsloth.
 # As of now we have the following datasets and models:
 ## Datasets
 [MedInstruct-52k](https://github.com/XZhang97666/AlpaCare/tree/master/data)
+[MedInstruct-52k-Arabic](https://huggingface.co/datasets/adlbh/medinstruct-52k-arabic) # dh
 
 ## Models
 
